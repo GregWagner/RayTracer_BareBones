@@ -2,8 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\GeometricObjects",
-    "\\src\\Utilities"
+    "\\src\\GeometricObjects"
   ],
   "SelectedNode": "\\src\\ofApp.cpp",
   "PreviewInSolutionExplorer": false
